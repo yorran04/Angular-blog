@@ -1,0 +1,15 @@
+.container_menu-bar> ul{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;   
+    width: 100%; 
+}
+
+.container_menu-bar > ul > li{
+    margin-right: 30px ;
+    list-style: none;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
