@@ -1,0 +1,30 @@
+.container_content{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: auto;
+}
+
+.conten-tTitle{
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.content_description > p{
+    font-weight: 600;
+    color: gray;
+    padding: 40px;
+}
+.content_cover > img{
+    border-radius: 15px;
+    max-width: 500px;
+}
+
+.content_cover:hover{
+    border: 1px solid white;
+    border-radius: 15px;
+}
+

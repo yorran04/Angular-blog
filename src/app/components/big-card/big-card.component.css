@@ -19,7 +19,7 @@
     margin-bottom: 10px;
     text-decoration: none;
 }
-.text_big-card > p{
+.text_big-card > p a{
     color: gray;
 
 }
